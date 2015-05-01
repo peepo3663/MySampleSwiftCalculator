@@ -29,7 +29,12 @@ class ViewController: UIViewController {
             if isUserTypingNumber {
                 displayLabel.text = displayLabel.text! + number
             } else {
-                displayLabel.text = number
+                if number == "0" {
+                    displayLabel.text = number
+                }
+                else {
+                    displayLabel.text = displayLabel.text!
+                }
                 isUserTypingNumber = true
             }
         }
