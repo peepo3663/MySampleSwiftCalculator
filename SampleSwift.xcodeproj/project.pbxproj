@@ -79,6 +79,7 @@
 			children = (
 				EA56EB101AEFE7B000B4FFD5 /* ViewController.swift */,
 				EA56EB151AEFE7B000B4FFD5 /* Images.xcassets */,
+				EA56EB121AEFE7B000B4FFD5 /* Main.storyboard */,
 				EA56EB0C1AEFE7B000B4FFD5 /* Supporting Files */,
 			);
 			path = SampleSwift;
@@ -89,7 +90,6 @@
 			children = (
 				EA56EB0E1AEFE7B000B4FFD5 /* AppDelegate.swift */,
 				EA56EB171AEFE7B000B4FFD5 /* LaunchScreen.xib */,
-				EA56EB121AEFE7B000B4FFD5 /* Main.storyboard */,
 				EA56EB0D1AEFE7B000B4FFD5 /* Info.plist */,
 			);
 			name = "Supporting Files";
